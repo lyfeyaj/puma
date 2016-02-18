@@ -1,6 +1,6 @@
 {
   "name": "puma",
-  "version": "1.0.0",
+  "version": "4.0.0",
   "description": "Puma",
   "main": "index.js",
   "scripts": {
